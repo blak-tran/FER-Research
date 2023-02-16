@@ -1,2 +1,4 @@
 Dataset/*
 checkpoints/*
+model_weights/*
+.ipynb_checkpoints/*
