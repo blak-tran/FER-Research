@@ -2,3 +2,9 @@ Dataset/*
 checkpoints/*
 custom-layers-research/.ipynb_checkpoints/*
 venv/*
+main-research/Dataset/*
+custom-layers-research/Dataset/*
+main-research/.ipynb_checkpoints/*
+main-research/model_weights/*
+custom-layers-research/model_weights/*
+transfer_model/model_weights/*
