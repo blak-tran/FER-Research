@@ -9,3 +9,6 @@ main-research/model_weights/*
 custom-layers-research/model_weights/*
 transfer_model/model_weights/*
 weights/*
+main_test/.ipynb_checkpoints/*
+main_test/logs/*
+main_test/model_checkpoint/*
