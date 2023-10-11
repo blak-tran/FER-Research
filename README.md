@@ -5,13 +5,6 @@ This project aims to implement a facial expression recognition system utilizing 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -25,3 +18,4 @@ Facial Expression Recognition (FER) plays a crucial role in various applications
 - **Accuracy Metrics**: Evaluates model performance using accuracy metrics and confusion matrices.
 - **Visualization**: Provides visualization tools to analyze the ensemble learning process and model predictions.
 
+https://github.com/blak-tran/FER-Research/blob/2cfc9d5bb016717b3add351d4448972c653591fe/result_research.png
